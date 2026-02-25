@@ -34,16 +34,5 @@ The system is built on a three-tier logic stack:
 
 
 
----
-
-## 🚦 Getting Started
-
-### Prerequisites
-- Python 3.9+
-- A Groq API Key ([Get one here](https://console.groq.com/))
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/fin-ai-auditor.git](https://github.com/YOUR_USERNAME/fin-ai-auditor.git)
-   cd fin-ai-auditor
+📊 Sample Data for Testing
+To see the Fraud Detection in action, upload a CSV with a category that spends 500% over its budget. Then, upload a text memo that forbids that specific category of spend. Watch as the Risk Score highlights the conflict.

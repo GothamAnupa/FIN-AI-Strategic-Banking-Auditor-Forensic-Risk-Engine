@@ -6,7 +6,7 @@ from pypdf import PdfReader
 from researcher import ResearchAgent
 
 # --- CONFIGURATION ---
-GROQ_API_KEY = "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" 
+GROQ_API_KEY = st.secrets["GROQ_API_KEY"]
 
 st.set_page_config(page_title="FIN-AI COMMAND", layout="wide")
 

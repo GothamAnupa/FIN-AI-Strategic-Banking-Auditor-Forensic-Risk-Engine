@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+plotly
+pypdf
+langchain-groq
+python-dotenv

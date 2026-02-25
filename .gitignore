@@ -1,0 +1,9 @@
+.streamlit/
+venv/
+.env
+__pycache__/
+*.csv
+*.xlsx
+actuals.csv
+budget.csv
+report.txt
